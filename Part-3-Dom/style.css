@@ -1,0 +1,75 @@
+/* style.css – Glassmorphism + Apple Font */
+
+@import url("https://fonts.googleapis.com/css2?family=SF+Pro+Display:wght@400;500;600&display=swap");
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display",
+    "Helvetica Neue", Arial, sans-serif;
+  background: linear-gradient(135deg, #dfe9f3, #ffffff);
+  padding: 40px;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+h1 {
+  color: #1d1d1f;
+  text-align: center;
+  font-weight: 600;
+  font-size: 2rem;
+  margin-bottom: 30px;
+  letter-spacing: -0.5px;
+}
+
+/* Glassmorphic container */
+ul {
+  list-style: none;
+  padding: 20px;
+  margin: 0;
+  width: 320px;
+  border-radius: 16px;
+  background: rgba(255, 255, 255, 0.25);
+  box-shadow: 0 8px 32px rgba(31, 38, 135, 0.1);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* List items */
+li {
+  background: rgba(255, 255, 255, 0.4);
+  margin: 8px 0;
+  padding: 12px 16px;
+  border-radius: 10px;
+  font-weight: 500;
+  color: #1d1d1f;
+  transition: all 0.2s ease-in-out;
+}
+
+li:hover {
+  transform: scale(1.03);
+  background: rgba(255, 255, 255, 0.55);
+}
+
+/* Button */
+button {
+  margin-top: 20px;
+  padding: 10px 24px;
+  cursor: pointer;
+  border: none;
+  border-radius: 12px;
+  font-weight: 600;
+  background: rgba(0, 122, 255, 0.85);
+  color: white;
+  backdrop-filter: blur(8px);
+  transition: all 0.3s ease-in-out;
+  box-shadow: 0 4px 12px rgba(0, 122, 255, 0.3);
+}
+
+button:hover {
+  background: rgba(0, 122, 255, 1);
+  transform: translateY(-2px) scale(1.05);
+  box-shadow: 0 6px 16px rgba(0, 122, 255, 0.4);
+}
