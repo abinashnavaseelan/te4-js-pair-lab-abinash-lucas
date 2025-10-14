@@ -1,16 +1,18 @@
 # 🎨 te4-js-pair-lab-abinash-lucas
 
-
 ---
 
 💡 Challenge Tasks
 
 - 🧩 Part 1 – Functions & Closures
+  
 - 🧮 Part 2 – Arrays Deep Dive
+  
 - 🧱 Part 3 – DOM Manipulation
+  
 - 🌐 Part 4 – Async JS + JSON + APIs
+  
 - 🧰 Part 5 – Error Handling & Debugging
-
 
 ---
 
@@ -21,8 +23,17 @@
 
 ---
 
+## 🎬 Demo
+### Page View
+![Page View](./:assets/pageview.gif)
+
+### Page View with Console
+![Page + Console](./:assets/pageviewwithconsole.gif)
+
+---
+
 ## 🚀 How to Run
 ```bash
 git clone https://github.com/yourusername/te4-js-pair-lab-abinash-lucas.git
-cd your-repo-name
+cd te4-js-pair-lab-abinash-lucas
 open index.html
