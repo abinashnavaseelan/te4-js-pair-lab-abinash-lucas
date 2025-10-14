@@ -3,7 +3,8 @@
 
 ---
 
-## ⚡ Tasks
+💡 Challenge Tasks
+
 - 🧩 Part 1 – Functions & Closures
 - 🧮 Part 2 – Arrays Deep Dive
 - 🧱 Part 3 – DOM Manipulation
