@@ -5,9 +5,13 @@
 💡 Challenge Tasks
 
 - 🧩 Part 1 – Functions & Closures
+  
 - 🧮 Part 2 – Arrays Deep Dive
+  
 - 🧱 Part 3 – DOM Manipulation
+  
 - 🌐 Part 4 – Async JS + JSON + APIs
+  
 - 🧰 Part 5 – Error Handling & Debugging
 
 ---
