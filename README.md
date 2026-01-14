@@ -1,4 +1,4 @@
-# 🎨 te4-js-pair-lab-abinash-lucas
+# 🎨 TE4 JS Pair Lab Abinash & Lucas
 
 ---
 
